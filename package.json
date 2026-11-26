@@ -1,0 +1,1 @@
+{ "name": "suman-portfolio", "private": true, "scripts": { "og": "node scripts/generate-og.js" }, "dependencies": { "@napi-rs/canvas": "^0.1.60" } }
