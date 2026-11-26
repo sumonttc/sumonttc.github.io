@@ -3,7 +3,7 @@
    After editing name/title/description/siteUrl, re-run: node scripts/generate-og.js */
 window.PORTFOLIO_DATA = {
   /* PLACEHOLDER: replace with your real GitHub Pages address (keep the trailing slash) */
-  siteUrl: "https://YOUR-USERNAME.github.io/suman-portfolio/",
+  siteUrl: "https://sumonttc.github.io/",
   ink: "#111111", paper: "#F5F3EE", accent: "#E4570C",
   contact: { phone: "01712141053", whatsapp: "8801712141053", email: "sumonttc@protonmail.com" },
 
