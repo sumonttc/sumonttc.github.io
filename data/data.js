@@ -95,6 +95,6 @@ window.PORTFOLIO_DATA = {
     contactText: "ভর্তি চলছে। পরবর্তী ব্যাচ সম্পর্কে জানতে হোয়াটসঅ্যাপ করুন, কল করুন বা ইমেইল পাঠান।",
     ui: { about: "পরিচিতি", courses: "কোর্স", experience: "অভিজ্ঞতা", contact: "যোগাযোগ", wa: "হোয়াটসঅ্যাপ", call: "কল", mail: "ইমেইল",
       aboutTitle: "আমার সম্পর্কে", coursesTitle: "ট্রেনিং কোর্স", experienceTitle: "কাজের অভিজ্ঞতা", galleryTitle: "কাজ ও ট্রেনিংয়ের ছবি", contactTitle: "যোগাযোগ করুন",
-      skills: "ওয়েল্ডিং দক্ষতা", quick: "দ্রুত লিংক", follow: "ফলো করুন", createdBy: "তৈরি করেছেন", viewMap: "গুগল ম্যাপে দেখুন", rate: "গুগলে রেটিং দিন", soon: "লিংক শীঘ্রই যুক্ত হবে", placeholder: "", otherLang: "English", switchLabel: "Switch to English" }
+      skills: "ওয়েল্ডিং দক্ষতা", quick: "দ্রুত লিংক", follow: "ফলো করুন", createdBy: "তৈরি করেছেন", viewMap: "গুগল ম্যাপে দেখুন", rate: "গুগলে রেটিং দিন", soon: "লিংক শীঘ্রই যুক্ত হবে", placeholder: "ছবি বসবে", otherLang: "English", switchLabel: "Switch to English" }
   }
 };
